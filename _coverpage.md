@@ -1,4 +1,4 @@
-> Algorithm question recording
+> Algorithm OJ recording
 <p align="center">
 <img src = "./media/algo.svg"  width="25%"  height="15% alt="algo"  title="algo" />
 </p>
